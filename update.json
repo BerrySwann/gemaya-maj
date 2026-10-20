@@ -1,6 +1,6 @@
 {
-  "versionCode": 9,
-  "versionName": "0.9",
-  "apk": "https://github.com/BerrySwann/gemaya-maj/releases/download/v0.9-sans-cle/EDL-GEMAYA-0.9.apk",
-  "notes": "Correcteur de frappe, famille proposee d apres le nom, descriptions des familles."
+  "versionCode": 10,
+  "versionName": "0.10",
+  "apk": "https://github.com/BerrySwann/gemaya-maj/releases/download/v0.10/EDL-GEMAYA-0.10.apk",
+  "notes": "Import d inventaire CSV."
 }
