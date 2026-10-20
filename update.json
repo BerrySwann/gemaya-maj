@@ -1,6 +1,6 @@
 {
-  "versionCode": 15,
-  "versionName": "0.15",
-  "apk": "https://github.com/BerrySwann/gemaya-maj/releases/download/v0.15/EDL-GEMAYA-0.15.apk",
-  "notes": "Indicateur de cle dans la configuration."
+  "versionCode": 17,
+  "versionName": "0.17",
+  "apk": "https://github.com/BerrySwann/gemaya-maj/releases/download/v0.17/EDL-GEMAYA-0.17.apk",
+  "notes": "Adresse de mise a jour pre-remplie, detail des erreurs affiche."
 }
