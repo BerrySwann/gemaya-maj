@@ -1,6 +1,6 @@
 {
-  "versionCode": 17,
-  "versionName": "0.17",
-  "apk": "https://github.com/BerrySwann/gemaya-maj/releases/download/v0.17/EDL-GEMAYA-0.17.apk",
-  "notes": "Adresse de mise a jour pre-remplie, detail des erreurs affiche."
+  "versionCode": 18,
+  "versionName": "0.18",
+  "apk": "https://github.com/BerrySwann/gemaya-maj/releases/download/v0.18/EDL-GEMAYA-0.18.apk",
+  "notes": "Code d acces masque, inventaire embarque, adresse de mise a jour pre-remplie."
 }
