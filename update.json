@@ -1,6 +1,6 @@
 {
-  "versionCode": 11,
-  "versionName": "0.11",
-  "apk": "https://github.com/BerrySwann/gemaya-maj/releases/download/v0.11/EDL-GEMAYA-0.11.apk",
-  "notes": "Familles des inventaires clients ramenees aux notres."
+  "versionCode": 12,
+  "versionName": "0.12",
+  "apk": "https://github.com/BerrySwann/gemaya-maj/releases/download/v0.12/EDL-GEMAYA-0.12.apk",
+  "notes": "Le releve CSV s ecrit directement dans Telechargements/gemaya."
 }
