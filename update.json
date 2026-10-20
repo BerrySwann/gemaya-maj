@@ -1,6 +1,6 @@
 {
-  "versionCode": 10,
-  "versionName": "0.10",
-  "apk": "https://github.com/BerrySwann/gemaya-maj/releases/download/v0.10/EDL-GEMAYA-0.10.apk",
-  "notes": "Import d inventaire CSV."
+  "versionCode": 11,
+  "versionName": "0.11",
+  "apk": "https://github.com/BerrySwann/gemaya-maj/releases/download/v0.11/EDL-GEMAYA-0.11.apk",
+  "notes": "Familles des inventaires clients ramenees aux notres."
 }
