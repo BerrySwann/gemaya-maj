@@ -1,6 +1,6 @@
 {
-  "versionCode": 18,
-  "versionName": "0.18",
-  "apk": "https://github.com/BerrySwann/gemaya-maj/releases/download/v0.18/EDL-GEMAYA-0.18.apk",
-  "notes": "Code d acces masque, inventaire embarque, adresse de mise a jour pre-remplie."
+  "versionCode": 19,
+  "versionName": "0.19",
+  "apk": "https://github.com/BerrySwann/gemaya-maj/releases/download/v0.19/EDL-GEMAYA-0.19.apk",
+  "notes": "Verification de mise a jour sans cache."
 }
