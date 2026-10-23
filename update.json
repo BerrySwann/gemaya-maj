@@ -1,6 +1,6 @@
 {
-  "versionCode": 25,
-  "versionName": "0.25",
-  "apk": "https://github.com/BerrySwann/gemaya-maj/releases/download/v0.25/EDL-GEMAYA-0.25.apk",
-  "notes": "Ajouts de l inventaire marques, import CSV corrige."
+  "versionCode": 26,
+  "versionName": "0.26",
+  "apk": "https://github.com/BerrySwann/gemaya-maj/releases/download/v0.26/EDL-GEMAYA-0.26.apk",
+  "notes": "Colonne New, materiel de l inventaire en vert, champ Taille."
 }
