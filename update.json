@@ -1,6 +1,6 @@
 {
-  "versionCode": 42,
-  "versionName": "0.42",
-  "apk": "https://github.com/BerrySwann/gemaya-maj/releases/download/v0.42/EDL-GEMAYA-0.42.apk",
-  "notes": "Photos comptees dans la base, alerte photos en memoire."
+  "versionCode": 43,
+  "versionName": "0.43",
+  "apk": "https://github.com/BerrySwann/gemaya-maj/releases/download/v0.43/EDL-GEMAYA-0.43.apk",
+  "notes": "Verification aupres de GitHub directement."
 }
