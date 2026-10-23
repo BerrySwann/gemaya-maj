@@ -1,6 +1,6 @@
 {
-  "versionCode": 31,
-  "versionName": "0.31",
-  "apk": "https://github.com/BerrySwann/gemaya-maj/releases/download/v0.31/EDL-GEMAYA-0.31.apk",
-  "notes": "Envoi du releve sur GitHub."
+  "versionCode": 32,
+  "versionName": "0.32",
+  "apk": "https://github.com/BerrySwann/gemaya-maj/releases/download/v0.32/EDL-GEMAYA-0.32.apk",
+  "notes": "Sous-localisation creeable, lecture de plaque sans doublon."
 }
