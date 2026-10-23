@@ -1,6 +1,6 @@
 {
-  "versionCode": 27,
-  "versionName": "0.27",
-  "apk": "https://github.com/BerrySwann/gemaya-maj/releases/download/v0.27/EDL-GEMAYA-0.27.apk",
-  "notes": "Sous-localisation en liste, avec creation et correction."
+  "versionCode": 28,
+  "versionName": "0.28",
+  "apk": "https://github.com/BerrySwann/gemaya-maj/releases/download/v0.28/EDL-GEMAYA-0.28.apk",
+  "notes": "Classe du filtre reconnue (ePM1, ISO 16890, F7)."
 }
