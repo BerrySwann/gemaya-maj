@@ -1,6 +1,6 @@
 {
-  "versionCode": 23,
-  "versionName": "0.23",
-  "apk": "https://github.com/BerrySwann/gemaya-maj/releases/download/v0.23/EDL-GEMAYA-0.23.apk",
-  "notes": "Inventaire complet, champs Intensite et Vitesse."
+  "versionCode": 24,
+  "versionName": "0.24",
+  "apk": "https://github.com/BerrySwann/gemaya-maj/releases/download/v0.24/EDL-GEMAYA-0.24.apk",
+  "notes": "Localisations numerotees dans l ordre du fichier."
 }
