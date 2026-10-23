@@ -1,6 +1,6 @@
 {
-  "versionCode": 26,
-  "versionName": "0.26",
-  "apk": "https://github.com/BerrySwann/gemaya-maj/releases/download/v0.26/EDL-GEMAYA-0.26.apk",
-  "notes": "Colonne New, materiel de l inventaire en vert, champ Taille."
+  "versionCode": 27,
+  "versionName": "0.27",
+  "apk": "https://github.com/BerrySwann/gemaya-maj/releases/download/v0.27/EDL-GEMAYA-0.27.apk",
+  "notes": "Sous-localisation en liste, avec creation et correction."
 }
