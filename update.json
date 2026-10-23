@@ -1,6 +1,6 @@
 {
-  "versionCode": 43,
-  "versionName": "0.43",
-  "apk": "https://github.com/BerrySwann/gemaya-maj/releases/download/v0.43/EDL-GEMAYA-0.43.apk",
-  "notes": "Verification aupres de GitHub directement."
+  "versionCode": 44,
+  "versionName": "0.44",
+  "apk": "https://github.com/BerrySwann/gemaya-maj/releases/download/v0.44/EDL-GEMAYA-0.44.apk",
+  "notes": "Sauvegarde avant rechargement, envoi GitHub sans ecrasement."
 }
