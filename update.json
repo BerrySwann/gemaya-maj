@@ -1,6 +1,6 @@
 {
-  "versionCode": 32,
-  "versionName": "0.32",
-  "apk": "https://github.com/BerrySwann/gemaya-maj/releases/download/v0.32/EDL-GEMAYA-0.32.apk",
-  "notes": "Sous-localisation creeable, lecture de plaque sans doublon."
+  "versionCode": 33,
+  "versionName": "0.33",
+  "apk": "https://github.com/BerrySwann/gemaya-maj/releases/download/v0.33/EDL-GEMAYA-0.33.apk",
+  "notes": "Intensite et doubles valeurs GV/PV lues sur les plaques."
 }
