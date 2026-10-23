@@ -1,6 +1,6 @@
 {
-  "versionCode": 21,
-  "versionName": "0.21",
-  "apk": "https://github.com/BerrySwann/gemaya-maj/releases/download/v0.21/EDL-GEMAYA-0.21.apk",
-  "notes": "Inventaire Excel range dans la base, cle API protegee."
+  "versionCode": 22,
+  "versionName": "0.22",
+  "apk": "https://github.com/BerrySwann/gemaya-maj/releases/download/v0.22/EDL-GEMAYA-0.22.apk",
+  "notes": "Inventaire recharge automatiquement si la base est vide."
 }
