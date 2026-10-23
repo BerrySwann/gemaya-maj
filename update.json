@@ -1,6 +1,6 @@
 {
-  "versionCode": 24,
-  "versionName": "0.24",
-  "apk": "https://github.com/BerrySwann/gemaya-maj/releases/download/v0.24/EDL-GEMAYA-0.24.apk",
-  "notes": "Localisations numerotees dans l ordre du fichier."
+  "versionCode": 25,
+  "versionName": "0.25",
+  "apk": "https://github.com/BerrySwann/gemaya-maj/releases/download/v0.25/EDL-GEMAYA-0.25.apk",
+  "notes": "Ajouts de l inventaire marques, import CSV corrige."
 }
