@@ -1,6 +1,6 @@
 {
-  "versionCode": 41,
-  "versionName": "0.41",
-  "apk": "https://github.com/BerrySwann/gemaya-maj/releases/download/v0.41/EDL-GEMAYA-0.41.apk",
-  "notes": "Configuration en police plus petite."
+  "versionCode": 42,
+  "versionName": "0.42",
+  "apk": "https://github.com/BerrySwann/gemaya-maj/releases/download/v0.42/EDL-GEMAYA-0.42.apk",
+  "notes": "Photos comptees dans la base, alerte photos en memoire."
 }
