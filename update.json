@@ -1,6 +1,6 @@
 {
-  "versionCode": 45,
-  "versionName": "0.45",
-  "apk": "https://github.com/BerrySwann/gemaya-maj/releases/download/v0.45/EDL-GEMAYA-0.45.apk",
-  "notes": "Rechargement sans doublons."
+  "versionCode": 46,
+  "versionName": "0.46",
+  "apk": "https://github.com/BerrySwann/gemaya-maj/releases/download/v0.46/EDL-GEMAYA-0.46.apk",
+  "notes": "Pieces repliees dans la liste, blocs replies en configuration."
 }
