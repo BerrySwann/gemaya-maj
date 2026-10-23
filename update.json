@@ -1,6 +1,6 @@
 {
-  "versionCode": 19,
-  "versionName": "0.19",
-  "apk": "https://github.com/BerrySwann/gemaya-maj/releases/download/v0.19/EDL-GEMAYA-0.19.apk",
-  "notes": "Verification de mise a jour sans cache."
+  "versionCode": 21,
+  "versionName": "0.21",
+  "apk": "https://github.com/BerrySwann/gemaya-maj/releases/download/v0.21/EDL-GEMAYA-0.21.apk",
+  "notes": "Inventaire Excel range dans la base, cle API protegee."
 }
