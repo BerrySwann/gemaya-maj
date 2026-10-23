@@ -1,6 +1,6 @@
 {
-  "versionCode": 37,
-  "versionName": "0.37",
-  "apk": "https://github.com/BerrySwann/gemaya-maj/releases/download/v0.37/EDL-GEMAYA-0.37.apk",
-  "notes": "Fleche visible sur la liste des equipements."
+  "versionCode": 38,
+  "versionName": "0.38",
+  "apk": "https://github.com/BerrySwann/gemaya-maj/releases/download/v0.38/EDL-GEMAYA-0.38.apk",
+  "notes": "Fleches sur toutes les listes de la configuration."
 }
