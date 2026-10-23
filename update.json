@@ -1,6 +1,6 @@
 {
-  "versionCode": 38,
-  "versionName": "0.38",
-  "apk": "https://github.com/BerrySwann/gemaya-maj/releases/download/v0.38/EDL-GEMAYA-0.38.apk",
-  "notes": "Fleches sur toutes les listes de la configuration."
+  "versionCode": 39,
+  "versionName": "0.39",
+  "apk": "https://github.com/BerrySwann/gemaya-maj/releases/download/v0.39/EDL-GEMAYA-0.39.apk",
+  "notes": "Inventaire complet avec secteurs et localisations remplis."
 }
